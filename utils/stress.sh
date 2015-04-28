@@ -1,0 +1,1 @@
+ab -p sampletrade.json -n 100000 -c 100 -T 'application/json' http://localhost:9000/trademsg

@@ -1,0 +1,1 @@
+curl -v -H "Content-Type: application/json" -X POST --data "@sampletrade.json" http://localhost:9000/trademsg
